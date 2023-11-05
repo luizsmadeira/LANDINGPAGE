@@ -3,6 +3,9 @@
 ###  Front End:
 -   Html
 -    Css
+## Melhorias e o que resta fazer no projeto.
+### Linkar o whatsapp,Facebook e Instagram.
+
 
   
 ## Resultado aqui
