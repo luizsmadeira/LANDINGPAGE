@@ -6,6 +6,7 @@
 ## Melhorias e o que resta fazer no projeto.
 ###  Linkar o whatsapp,Facebook e Instagram.
 ###  Adicionar logo no topo da página com o mesmo estilo de fonte.
+###  Ajustar brilho e contraste do video de fundo
 
 
   
